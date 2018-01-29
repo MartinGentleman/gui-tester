@@ -1,4 +1,4 @@
-# Matrin's Tester Application
+# Martin's Tester Application
 
 Developed using JavaScript, Vue.js and Elektron
 
