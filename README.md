@@ -1,22 +1,13 @@
-# martins-tester
+# Matrin's Tester Application
 
-> Automation App
+Developed using JavaScript, Vue.js and Elektron
 
-#### Build Setup
+Tests are build using my own test runner based of Selenium and webdriver.io
 
-``` bash
-# install dependencies
-npm install
+Thanks to Elektron you get testing interface as this:
 
-# serve with hot reload at localhost:9080
-npm run dev
+<img width="800" alt="martins-tester-01" src="https://user-images.githubusercontent.com/11709245/35489866-a03945b0-0460-11e8-84eb-4b1bfa23ff54.png">
 
-# build electron application for production
-npm run build
+You can run your tests in large batches (tested with hundres of links) and get your results as this:
 
-
-```
-
----
-
-This project was generated with [electron-vue](https://github.com/SimulatedGREG/electron-vue) using [vue-cli](https://github.com/vuejs/vue-cli). Documentation about the original structure can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).
+<img width="800" alt="martins-tester-02" src="https://user-images.githubusercontent.com/11709245/35489925-3d572376-0461-11e8-84f4-4a54f5aa7935.png">
